@@ -15,3 +15,5 @@ CyberPi is the main controller of mBot2. It helps control the robot and its diff
 
 # Why do we use mBot2 in ICT lessons?
 We use mBot2 to learn coding, problem-solving, and robotics in a practical way.
+## Useful Link
+(https://www.makeblock.com/pages/mbot2-coding-robot)
